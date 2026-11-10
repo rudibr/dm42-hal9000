@@ -1,5 +1,9 @@
 # HAL 9000 for the SwissMicros DM42
 
+![HAL 9000 chatting on a DM42](docs/hal_demo.gif)
+
+*Simulated DM42 screen with real replies from HAL (rendered by `docs/make_gif.py`).*
+
 A tiny language model in a calculator. HAL greets you according to the DM42's
 real-time clock, asks for your name, and then chats in a calm, polite, slightly
 unsettling voice. It also solves arithmetic, tells the time and date, and sings
