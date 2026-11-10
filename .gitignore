@@ -1,0 +1,6 @@
+dm42/build/
+train/corpus.txt
+train/model.pt
+train/train.log
+src/hal_host
+*.o

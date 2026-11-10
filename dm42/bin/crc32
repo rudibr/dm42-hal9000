@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+# Minimal replacement for the 'crc32' tool used by check_qspi_crc
+import sys, zlib
+print("%08x" % (zlib.crc32(open(sys.argv[1], "rb").read()) & 0xffffffff))
