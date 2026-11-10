@@ -9,7 +9,7 @@ Fan project. Not affiliated with SwissMicros or with the makers of *2001: A Spac
 
 ## Install
 
-Download [`release/HAL9000.pgm`](release/HAL9000.pgm) (also attached to the latest GitHub release).
+Download [`release/HAL9000.pgm`](release/HAL9000.pgm).
 
 1. Connect the DM42 by USB. On the calculator, open **SETUP → System → Enter
    System Menu → Activate USB Disk** (on some firmware versions it is
